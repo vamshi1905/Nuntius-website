@@ -1,13 +1,4 @@
-# Real-Time Messenger Clone: Next.js 13, React, Tailwind, Prisma, MongoDB, NextAuth, Pusher (2023)
-
-![Copy of Copy of Fullstack Twitter Clone (1)](https://user-images.githubusercontent.com/23248726/236631198-90414da5-ee43-46a9-8898-70b003bcd83d.png)
-
-
-This is a repository for a Real-Time Messenger Clone: Next.js 13, React, Tailwind, Prisma, MongoDB, NextAuth, Pusher.
-
-[VIDEO TUTORIAL](https://www.youtube.com/watch?v=PGPGcKBpAk8)
-
-Master the art of building a real-time Messenger clone using the latest web development technologies. In this comprehensive tutorial, we'll walk you through the process of creating a fully-functional and visually stunning chat application that rivals the best in the industry.
+# Real-Time Messenger Clone: Next.js 13, React, Tailwind, Prisma, MongoDB, NextAuth, Pusher
 
 Key Features:
 
@@ -18,7 +9,7 @@ Key Features:
 - Full responsiveness for all devices
 - Credential authentication with NextAuth
 - Google authentication integration
-- Github authentication integration
+- GitHub authentication integration
 - File and image upload using Cloudinary CDN
 - Client form validation and handling using react-hook-form
 - Server error handling with react-toast
@@ -27,7 +18,7 @@ Key Features:
 - Group chats and one-on-one messaging
 - Message attachments and file sharing
 - User profile customization and settings
-- How to write POST, GET, and DELETE routes in route handlers (app/api)
+- How to write POST, GET, and DELETE routes in route handlers (app/API)
 - How to fetch data in server React components by directly accessing the database (WITHOUT API! like Magic!)
 - Handling relations between Server and Child components in a real-time environment
 - Creating and managing chat rooms and channels
