@@ -33,7 +33,7 @@ const Auth = () => {
             text-gray-900
           "
           >
-            Welcome to Vamshi's Nuntius Website
+            Welcome to Vamshi`&apos;`s Nuntius Website
             Sign in to your account
         </h2>
       </div>
